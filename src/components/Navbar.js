@@ -21,7 +21,7 @@ function Navbar() {
         }
     };
 
-    window.addEventListener('resize', showButton);
+    window.addEventListener('resize', showButton)
 
     return (
         <>
